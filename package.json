@@ -1,0 +1,13 @@
+{
+  "name": "1000-bai-code-thieu-nhi",
+  "version": "1.0.0",
+  "description": "[Sưu tầm] Lời giải 1000 bài tập lập trình C của thầy Nguyễn Tấn Trần Minh Khang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "check": "FILEPATH=$npm_config_file ts-node $npm_config_file"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
